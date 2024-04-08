@@ -38,5 +38,10 @@
         "label": "Polski",
         "code": "PL",
         "value": "pl"
+    },
+    "ko": {
+        "label": "한국어",
+        "code": "KO",
+        "value": "ko"
     }
 }
