@@ -202,7 +202,7 @@
   "feedback.policy.upload.maximum-parallel-file-reads-hint": "병렬 파일 읽기의 최대 수",
   "feedback.policy.upload.maximum-parallel-snapshots": "최대 병렬 스냅샷",
   "feedback.policy.upload.maximum-parallel-snapshots-help": "동시에 업로드할 수 있는 최대 스냅샷 수",
-  "feedback.policy.upload.maximum-parallel-snapshots-hint-set": "병렬 스냅숏의 최대 수",
+  "feedback.policy.upload.maximum-parallel-snapshots-hint-set": "병렬 스냅샷의 최대 수",
   "feedback.policy.upload.maximum-parallel-snapshots-hint-unset": "전역, 사용자 또는 호스트 정책을 사용하여 지정해야 합니다.",
   "feedback.prodiver.gcs.paste-json-credentials": "JSON 자격 증명을 여기에 붙여넣으세요",
   "feedback.provider.azure-blob-storage": "Azure Blob Storage",
