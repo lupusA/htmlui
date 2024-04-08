@@ -111,7 +111,7 @@
   "feedback.policy.files.ignore-rule-files-help": "무시 규칙이 포함된 추가 파일 목록(각 파일은 디렉터리 및 하위 디렉터리에 대한 무시 규칙을 구성)",
   "feedback.policy.files.ignore-rule-files-hint": "예시: .kopiaignore",
   "feedback.policy.files.ignore-rules-from-parent-directories": "Ignore Rules From Parent Directories",
-  "feedback.policy.files.ignore-rules-from-parent-directories-help": "설정된 경우, 상위 디렉토리의 무시 규칙이 무시됩니다.",
+  "feedback.policy.files.ignore-rules-from-parent-directories-help": "설정된 경우, 상위 디렉토리의 무시 규칙을 무시합니다.",
   "feedback.policy.files.ignore-well-known-cache-directories": "Ignore Well-Known Cache Directories",
   "feedback.policy.files.ignore-well-known-cache-directories-help": "CACHEDIR.TAG와 유사한 파일을 포함하는 디렉토리를 무시합니다.",
   "feedback.policy.files.scan-only-one-filesystem": "Scan only one filesystem",
