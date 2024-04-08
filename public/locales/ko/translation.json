@@ -474,6 +474,6 @@
   "value.ui.theme-light": "밝음",
   "value.ui.theme-ocean": "오션",
   "value.ui.theme-pastel": "파스텔",
-  "value.validation.optional-no": "no",
-  "value.validation.optional-yes": "yes"
+  "value.validation.optional-no": "아니요",
+  "value.validation.optional-yes": "네"
 }
