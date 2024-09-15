@@ -4,6 +4,11 @@
         "code": "GB",
         "value": "en"
     },
+    "cs": {
+        "label": "Čeština",
+        "code": "CS",
+        "value": "cs"
+    },
     "de": {
         "label": "Deutsch",
         "code": "DE",
